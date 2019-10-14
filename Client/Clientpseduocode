@@ -1,0 +1,27 @@
+pseudocode for Client
+
+Create Config with default values if it doesn't exist
+If it is not readable, terminate gracefully with an error message
+
+Hello user enter your password, send that to the server
+recieve error, password incorrect if it is incorrect
+
+recieve server's message of the day
+
+What do you want to do? List files, download file or upload file
+
+if user answer is to list the files
+    recieve list of files from the server
+
+if the user answer is to download a file 
+    recieve the bytes of the file
+
+if the user wishes to upload a file
+    send the bytes of the file
+
+    authenticated user request a list of shared files from the server
+
+end
+
+
+

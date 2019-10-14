@@ -1,0 +1,32 @@
+Sever pseudo code
+
+loads the config file with the default variables for
+    Port, IP addressm, Fileshare directory path, Logfile path, message of the day
+
+if the configured file doesn't exist, create one with default values and log it
+exit gracefully if the config file is not readable
+
+client should authenticate with a username and password
+    -for now just hardcode it lol
+
+Sends MOTD once they have conntected
+
+Allows an authenticated client to request a list of shared file
+
+allows authenticated client to request a file in a the config fileshared directory path
+
+upload
+
+currency for multiple clients to conenct and download files from a single server (multithreading)
+as well as replication
+
+
+logging facility impliments,
+    program started (IP:port num)
+    program exit
+    client connected
+    client disconnected
+    File uploaded
+    file downloaded
+    run in separate process
+

@@ -1,0 +1,151 @@
+Created logger file!
+Mon May 27 17:33:56 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:33:56 2019
+Client Conencted!
+Mon May 27 17:33:58 2019
+Thread Created!
+Mon May 27 17:33:58 2019
+settings file read by Client: 
+Mon May 27 17:33:58 2019
+Client disconnected
+Mon May 27 17:34:01 2019
+First Logger entry for this instance!
+Mon May 27 17:45:25 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:45:25 2019
+Client Conencted!
+Mon May 27 17:45:32 2019
+Thread Created!
+Mon May 27 17:45:32 2019
+settings file read by Client: 
+Mon May 27 17:45:32 2019
+Client signed in!Mon May 27 17:45:36 2019
+Sent messagae of the day to the client!
+Mon May 27 17:45:36 2019
+Showed the client the file share directory!
+Mon May 27 17:45:36 2019
+Client disconnected
+Mon May 27 17:45:46 2019
+First Logger entry for this instance!
+Mon May 27 17:47:09 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:47:09 2019
+First Logger entry for this instance!
+Mon May 27 17:47:14 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:47:14 2019
+Client Conencted!
+Mon May 27 17:47:15 2019
+Thread Created!
+Mon May 27 17:47:15 2019
+settings file read by Client: 
+Mon May 27 17:47:15 2019
+Client signed in!
+Mon May 27 17:47:18 2019
+Sent message of the day to the client!
+Mon May 27 17:47:18 2019
+Showed the client the file share directory!
+Mon May 27 17:47:18 2019
+Client disconnected
+Mon May 27 17:47:24 2019
+Client Conencted!
+Mon May 27 17:47:28 2019
+Thread Created!
+Mon May 27 17:47:28 2019
+settings file read by Client: 
+Mon May 27 17:47:28 2019
+Client Conencted!
+Mon May 27 17:47:41 2019
+Thread Created!
+Mon May 27 17:47:41 2019
+settings file read by Client: 
+Mon May 27 17:47:41 2019
+Client signed in!
+Mon May 27 17:47:51 2019
+Client disconnected
+Mon May 27 17:48:01 2019
+First Logger entry for this instance!
+Mon May 27 17:49:07 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:49:07 2019
+Client Conencted!
+Mon May 27 17:49:09 2019
+Thread Created!
+Mon May 27 17:49:09 2019
+settings file read by Client: 
+Mon May 27 17:49:09 2019
+Client signed in!
+Mon May 27 17:49:10 2019
+First Logger entry for this instance!
+Mon May 27 17:51:06 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:51:06 2019
+Client Conencted!
+Mon May 27 17:51:08 2019
+Thread Created!
+Mon May 27 17:51:08 2019
+settings file read by Client: 
+Mon May 27 17:51:08 2019
+First Logger entry for this instance!
+Mon May 27 17:52:33 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:52:33 2019
+Client Conencted!
+Mon May 27 17:52:35 2019
+Thread Created!
+Mon May 27 17:52:35 2019
+settings file read by Client: 
+Mon May 27 17:52:35 2019
+First Logger entry for this instance!
+Mon May 27 17:53:41 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:53:41 2019
+Client Conencted!
+Mon May 27 17:53:42 2019
+Thread Created!
+Mon May 27 17:53:42 2019
+settings file read by Client: 
+Mon May 27 17:53:42 2019
+Client login unseccessful
+Mon May 27 17:53:44 2019
+First Logger entry for this instance!
+Mon May 27 17:54:11 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:54:11 2019
+Client Conencted!
+Mon May 27 17:54:14 2019
+Thread Created!
+Mon May 27 17:54:14 2019
+settings file read by Client: 
+Mon May 27 17:54:14 2019
+First Logger entry for this instance!
+Mon May 27 17:56:08 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:56:08 2019
+Client Conencted!
+Mon May 27 17:56:09 2019
+Thread Created!
+Mon May 27 17:56:09 2019
+settings file read by Client: 
+Mon May 27 17:56:09 2019
+Client login unseccessful
+Mon May 27 17:56:12 2019
+First Logger entry for this instance!
+Mon May 27 17:57:38 2019
+Logger Started! on address 127.0.0.1 on port 1337
+Mon May 27 17:57:38 2019
+Client Conencted!
+Mon May 27 17:57:39 2019
+Thread Created!
+Mon May 27 17:57:39 2019
+settings file read by Client: 
+Mon May 27 17:57:39 2019
+Client signed in!
+Mon May 27 17:57:41 2019
+Sent message of the day to the client!
+Mon May 27 17:57:41 2019
+Showed the client the file share directory!
+Mon May 27 17:57:41 2019
+Recieved a filename to download: coolcat.jpgMon May 27 17:57:46 2019
+Sent file to client!Mon May 27 17:57:46 2019
