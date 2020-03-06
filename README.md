@@ -6,4 +6,4 @@ What is working: Sockets, send and recieve files, store files, concurrency (thre
 
 Issues: Buffer overflow, unknown crashing
 
-I Will fix it at some point but the whole program is a bit of a mess
+I Will fix it at some point but the whole program suffers from a bit of spaghetti
