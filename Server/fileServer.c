@@ -40,7 +40,7 @@ int main(){
     strncpy(currserverSettings.IPAddress, "127.0.0.1", 50);
     strncpy(currserverSettings.fileshareDirectory, "fileshare/", 50);
     strncpy(currserverSettings.logfilePath, "log.dongs", 50);
-    strncpy(currserverSettings.motd, "hey fuck off client!", 50);
+    strncpy(currserverSettings.motd, "hey goaway off client!", 50);
 
     setLogger(currserverSettings.logfilePath);
 
